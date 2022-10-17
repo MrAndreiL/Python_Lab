@@ -4,4 +4,4 @@ def bits_one(num):
 
     return sum(map(int, bin_list[2:]))
 
-print(bits_one(54))
+print(bits_one(24))

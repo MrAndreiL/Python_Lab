@@ -20,22 +20,18 @@ def main():
         # From the remaining rows, print the first.
         for i in range(l, n):
             print(matrix[k][i], end='')
-        
         k += 1
 
         # From the remaining columns, print the last column.
         for i in range(k, m):
             print(matrix[i][n - 1], end='')
-        
         n -= 1
 
         # Print the last row from 
         # the remaining rows  
         if ( k < m) : 
-              
             for i in range(n - 1, (l - 1), -1) : 
                 print(matrix[m - 1][i], end = '') 
-              
             m -= 1
           
         # Print the first column from 
@@ -43,7 +39,6 @@ def main():
         if (l < n) : 
             for i in range(m - 1, k - 1, -1) : 
                 print(matrix[i][l], end = '') 
-              
             l += 1
     print(' ')
 

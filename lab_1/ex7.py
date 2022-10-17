@@ -1,6 +1,3 @@
-from cgitb import text
-
-
 def text_to_number(inf):
     """Extract the first instance of a numeric value from a given string."""
     inf_list = list(inf)
