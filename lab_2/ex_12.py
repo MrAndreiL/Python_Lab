@@ -21,7 +21,7 @@ def get_rhymes(lista_cuvinte):
 
 
 def main():
-    print(get_rhymes([['ana'], ['banana'], ['carte'], ['arme'], ['parte']]))
+    print(get_rhymes([['ana'], ['banana'], ['carte'], ['arme'], ['parte'], ['mana']]))
 
 if __name__ == "__main__":
     main()

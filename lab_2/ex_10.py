@@ -14,7 +14,7 @@ def get_tuples(*liste):
 
     
 def main():
-    print(get_tuples([1, 2, 3], [5, 6, 7], ["a", "b", "c"])) 
+    print(get_tuples([1, 2, 3], [5, 6, 7, 8], ["a", "b", "c"])) 
 
 if __name__ == "__main__":
     main()

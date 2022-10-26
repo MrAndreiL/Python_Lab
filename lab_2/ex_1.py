@@ -1,6 +1,3 @@
-from operator import ge
-
-
 def get_fibo(n):
     if n == 0:
         return [0]
