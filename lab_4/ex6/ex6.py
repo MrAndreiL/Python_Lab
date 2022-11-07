@@ -30,7 +30,7 @@ def search(target, to_search, callback):
 
 
 def main():
-    director = "/Users/andrei-sebastianlungu/University/python/Python_Lab/lab_4/ex2/files"
+    director = "/Users/andrei-sebastianlungu/University/python/Python_Lab/lab_4/ex2/files.d"
     fisier = "/Users/andrei-sebastianlungu/University/python/Python_Lab/lab_4/ex2/files/test.txt"
 
     to_search = "string"
