@@ -17,7 +17,7 @@ def process_item(x):
         x += 1
     return x
 
-x = input("Please provide an integer x: ")
+x = input("integer x: ")
 if x == 'q':
     pass 
 else: 

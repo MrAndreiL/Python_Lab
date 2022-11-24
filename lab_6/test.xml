@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<note>  
+  <to>Tove</to>  
+  <from class = url>Jani</from>  
+  <heading class = url name = url-form data-id = item>Reminder</heading>  
+  <body>Don't forget me this weekend!</body>  
+</note>  
